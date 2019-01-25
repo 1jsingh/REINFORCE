@@ -3,8 +3,15 @@ Implementation of REINFORCE algorithm for both discrete and continuous action sp
 
 ## Trained agent demo
 
-* #### Discrete Action Space
-![Trained_agent_cartpole](images/trained_cartpole)
+### Discrete Action Space
 
-* #### Continuous Action Space
-![Trained_agent_inv_pendulum](images/trained_inv_pendulum)
+#### Cartpole
+<img src="images/trained_cartpole" alt="Trained_agent_cartpole" width="400" height="300" border="20"/>
+
+### Continuous Action Space
+
+#### Pendulum
+<img src="images/trained_pendulum" alt="Trained_agent_pendulum" width="400" height="400" />
+
+#### Inverted Pendulum
+<img src="images/trained_inv_pendulum" alt="Trained_agent_inv_pendulum" width="400" height="400" border="20" />
